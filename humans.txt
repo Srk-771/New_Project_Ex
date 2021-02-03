@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Sharuk Khan> -- <Devops Engineer> -- <twitter>
 
 # THANKS
 
-    <name>
+    <Sharuk Khan>
 
 # TECHNOLOGY COLOPHON
 
